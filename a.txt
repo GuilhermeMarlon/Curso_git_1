@@ -10,4 +10,7 @@ git reset --hard (desfaz todas as alterações nao enviadas para o servidor )
 .gitignore (cria um arquivos para selecionar oque o git vai ignorar )
 git log (verifica todas as mudanças e quem fez ao final tem que apartar "q" para sair)
 git clone (mais a html do repositório) clona todo o arquivo
+git branch (mostra em qual branch voce esta nesse momento)
+git branch "nome do novo"(ele cria um novo, partindo da master )
+git branch - d "nome" (ele deleta a branch criada) mais comum usar --delete
 
