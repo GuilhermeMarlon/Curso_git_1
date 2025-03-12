@@ -1,1 +1,13 @@
 testando atualição de arquivo.
+só para deixar registrado.
+git add (pode usar o nome do arquivo ou . para todos) alto explicativo
+git status (ver se tem alguma pendêndcia )
+git pull (verifica se tem algum arquivo novo no projeto )
+git commit -a (para mandar todos os arquivos)- m " " (escrever oque foi feito )
+git push (mandar para o servidor as modificações )
+git mv (remover ou mudar nome ou mudar de lugar)
+git reset --hard (desfaz todas as alterações nao enviadas para o servidor )
+.gitignore (cria um arquivos para selecionar oque o git vai ignorar )
+git log (verifica todas as mudanças e quem fez ao final tem que apartar "q" para sair)
+git clone (mais a html do repositório) clona todo o arquivo
+
